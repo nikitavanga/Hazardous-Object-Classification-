@@ -1,1 +1,3 @@
-# Hazardous-Object-Classification-
+# Hazardous Object Classification
+This project involved building a machine learning model to classify objects detected by NASA as hazardous or not hazardous based on features like their size, orbit, and composition. This is crucial for early detection and mitigation of potential threats from space objects. 
+The NASA_NEO dataset provided information on Near-Earth Objects (NEOs) with features like position, velocity, and composition. The goal was to identify features relevant to identifying potentially hazardous objects. I aimed to develop a machine learning model capable of analyzing these objects' features and classifying them as hazardous or not. 
